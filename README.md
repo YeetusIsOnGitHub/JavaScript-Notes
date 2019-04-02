@@ -1,2 +1,2 @@
 # JavaScript-Notes
-These are the first few things that you need to know to start JavaScript. It is full of notes and tips that will help you get started with JavaScript! JavaScript is a html based program and can be used for websites and other html based programs.
+These are the first few things that you need to know to start JavaScript. It is full of notes and tips that will help you get started with JavaScript! JavaScript is a html based program and can be used for websites and other html based programs. For this program is used the atom text editor on ubuntu linux. Dont try running the program either it is just a compilatiopn of code that wont run correctly.
